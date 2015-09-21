@@ -12,11 +12,11 @@ var newsletters = [
         url: 'http://jaero.space/blog/imgur-react-native/'
       },
       {
-        title: '',
-        body: '',
-        author: '',
-        twitterHandle: '',
-        url: ''
+        title: 'Why We Moved From Angular to React',
+        body: 'As our front-end needs scaled, we had to coose between Angular or React to go forward. We choose React, and this is why.',
+        author: 'Bhargav P',
+        twitterHandle: 'BelongCo',
+        url: 'http://blog.belong.co/why-we-moved-from-angular-to-react'
       },
       {
         title: '',
